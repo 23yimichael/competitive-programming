@@ -15,6 +15,7 @@
 #include <numeric>
 #include <utility>
 #include <limits>
+#include <climits>
 #include <time.h>
 #include <math.h>
 #include <stdio.h>
