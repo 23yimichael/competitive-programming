@@ -27,7 +27,7 @@
 
 using namespace std;
 
-bool debug = false;
+const bool debug = false;
 const int mod = 1000000007;
 
 int main() {
